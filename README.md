@@ -1,2 +1,2 @@
 # towerblocks
-Game creation in HTML, CSS and JavaScript
+Game creation in HTML, CSS and JAVASCRIPT.
